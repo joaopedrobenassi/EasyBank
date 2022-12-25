@@ -272,6 +272,7 @@ footer{
     height: 40%;
     width: 20%;
     justify-content: space-between;
+    align-items: flex-end;
 }
 .footer_button button {
     width: 70%;
@@ -282,4 +283,7 @@ footer{
     color: hsl(0, 0%, 98%);
     cursor: pointer;
     font-weight: bold;
+}
+.footer_button span {
+    color: hsl(233, 8%, 62%);
 }
