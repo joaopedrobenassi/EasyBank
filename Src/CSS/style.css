@@ -64,6 +64,11 @@ main {
     background-position-x: 153%;
     background-position-y:78% ;
 }
+main .phones_image {
+    position: absolute;
+    right: -5%;
+    top: -5%;
+}
 .main_section {
     width: 1360px;
     display: flex;
