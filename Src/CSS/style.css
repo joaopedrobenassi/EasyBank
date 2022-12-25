@@ -206,4 +206,9 @@ figcaption {
 footer{
     background-color: hsl(233, 26%, 24%);
     height: 30%;
+    display: flex;
+    justify-content: center;
+}
+.footer_section {
+    width: 1360px;
 }
