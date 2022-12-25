@@ -87,6 +87,13 @@ aside {
 .aside_title{
     font-size: 50px;
     font-weight: 400;
+    color: hsl(233, 26%, 24%);
+}
+.aside_paragraph{
+    font-size: 18px;
+    color: hsl(233, 8%, 62%);
+    width: 50%;
+    padding: 25px 0;
 }
 .aside_section{
     width: 1360px;
