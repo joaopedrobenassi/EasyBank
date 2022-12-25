@@ -84,6 +84,10 @@ aside {
     align-items: center;
 
 }
+.aside_title{
+    font-size: 50px;
+    font-weight: 400;
+}
 .aside_section{
     width: 1360px;
 }
