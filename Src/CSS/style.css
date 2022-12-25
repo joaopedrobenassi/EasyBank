@@ -27,6 +27,16 @@ header {
     justify-content: space-between;
     align-items: center;
 }
+.header_box button {
+    width: 12%;
+    border: none;
+    border-radius: 20px;
+    padding: 15px 0;
+    background-image: linear-gradient(270deg, #08AEEA 0%, #2AF598 99%);
+    color: hsl(0, 0%, 98%);
+    cursor: pointer;
+    font-weight: bold;
+}
 nav {
     height: 100%;
     display: flex;
@@ -62,6 +72,16 @@ main {
 }
 .main_informations{
     width: 50%;
+}
+.main_informations button {
+    width: 25%;
+    border: none;
+    border-radius: 20px;
+    padding: 15px 0;
+    background-image: linear-gradient(270deg, #08AEEA 0%, #2AF598 99%);
+    color: hsl(0, 0%, 98%);
+    cursor: pointer;
+    font-weight: bold;
 }
 .main_title {
     font-size: 70px;
@@ -221,6 +241,7 @@ footer{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    
 }
 .footer_nav figure {
     background-color: white;
@@ -241,7 +262,24 @@ footer{
 
 }
 .footer_links a {
-    
+    font-weight: 400;
     color: hsl(0, 0%, 98%);
     text-decoration: none;
+}
+.footer_button {
+    display: flex;
+    flex-direction: column;
+    height: 40%;
+    width: 20%;
+    justify-content: space-between;
+}
+.footer_button button {
+    width: 70%;
+    border: none;
+    border-radius: 20px;
+    padding: 15px 0;
+    background-image: linear-gradient(270deg, #08AEEA 0%, #2AF598 99%);
+    color: hsl(0, 0%, 98%);
+    cursor: pointer;
+    font-weight: bold;
 }
