@@ -19,6 +19,8 @@ header {
     display: flex;
     justify-content: center;
     background-color: white;
+    position: relative;
+    z-index: 1;
 }
 .header_box {
     width: 1360px;
