@@ -63,8 +63,8 @@ main {
     justify-content: center;
     background-image: url('../IMG/bg-intro-desktop.svg');
     background-repeat: no-repeat;
-    background-position-x: 230%;
-    background-position-y: 70% ;
+    background-position-x: 255%;
+    background-position-y: 60% ;
 }
 main .phones_image {
     position: absolute;
