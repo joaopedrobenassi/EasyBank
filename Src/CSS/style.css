@@ -298,3 +298,7 @@ footer{
 
 /* Inicializando media queries para design responsivo */
 
+@media (max-width: 415px)
+{
+    
+}
