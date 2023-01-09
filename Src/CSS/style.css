@@ -319,5 +319,17 @@ footer{
         background-color: white;
         position: relative;
         z-index: 1;
+        align-items: center;
     }
+    .header_box {
+        width: 100%;
+        height: 100%;
+        justify-content: space-between;
+        padding: 0px 20px;
+    }
+    nav {
+        display: none;
+    }
+    
+
 }
