@@ -330,6 +330,13 @@ footer{
     nav {
         display: none;
     }
+    .responsive_menu{
+        
+    }
+    .header_box button {
+        display: none;
+    }
+
     
 
 }
