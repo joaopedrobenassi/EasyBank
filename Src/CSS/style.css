@@ -39,6 +39,9 @@ header {
     cursor: pointer;
     font-weight: bold;
 }
+.responsive_menu{
+    display: none;
+}
 nav {
     height: 100%;
     display: flex;
